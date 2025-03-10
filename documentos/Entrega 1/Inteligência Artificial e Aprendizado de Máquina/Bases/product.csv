@@ -1,0 +1,238 @@
+ProductID;ProviderID;CategoryID;Description
+99POP;3;1;99POP
+1;1;5;Taxi Comum
+2;1;6;Executivo
+46cec5c4d23e57bcba2122677eb8c759;4;5;Easy Taxi Corp (-15%)
+5fc141256dc70a394d0ce4c5c1444dfc;4;5;Taxi
+7da40add1baab37e19cae629f6907b13;4;2;Cabify Lite Corp
+99COMFORT;3;9;99COMFORT
+99ENTREGA;3;10;99ENTREGA
+99ENTREGA MOTO;3;1;99ENTREGA MOTO
+99ENTREGAMOTO;3;10;99ENTREGAMOTO
+99PLUS;3;1;99PLUS
+99POP;3;2;99POP
+99POUPA;3;2;99POUPA
+"99TAXI ";3;5;"99TAXI "
+99TOP;3;1;99TOP
+A4FAAD8F90DABD0CC1D0D25A267CD6F9;4;1;A4FAAD8F90DABD0CC1D0D25A267CD6F9
+ACCESS;2;1;ACCESS
+Bag;2;9;Bag
+Berline;2;1;Berline
+Bike Rack;2;1;Bike Rack
+Black;2;4;Black
+Black Bag;2;8;Black Bag
+BlackBag;2;1;BlackBag
+BlackSUV;2;1;BlackSUV
+c22b82c30092f9b70e8cb983f8ea50eb;4;2;Cabify Lite
+Cabify;4;2;Cabify
+Cabify Corp;4;2;Cabify Corp
+Cabify Essential;4;2;Cabify Essential
+Cabify Lite;4;2;Cabify Lite
+Cabify Lite Corp;4;2;Cabify Lite Corp
+Cabify.;4;2;Cabify.
+CentralBlack;2;1;CentralBlack
+CentralComfort;2;9;CentralComfort
+CentralComfortPlanet;2;1;CentralComfortPlanet
+CentralFlash;2;1;CentralFlash
+CentralFlash+;2;1;CentralFlash+
+CentralFlashMoto;2;1;CentralFlashMoto
+CentralPrioridade;2;1;CentralPrioridade
+CentralUberEspereeEconomize;2;1;CentralUberEspereeEconomize
+CentralUberPlanet;2;1;CentralUberPlanet
+CentralUberX;2;2;CentralUberX
+CentralVIP;2;1;CentralVIP
+Comfort;2;9;Comfort
+Comfort Planet;2;1;Comfort Planet
+comfort99;3;9;99COMFORT
+comfort99-w;44;1;99PLUS-w
+ComfortAeropuerto;2;1;ComfortAeropuerto
+ComfortElectric;2;1;ComfortElectric
+ComfortPlanet;2;1;ComfortPlanet
+comum - Rádio VIPService;36;5;COMUM
+d3d0daf3d8ed60a48aa138b77d0bd089;4;1;Cabify Essential
+dac9570e8253b3e5fa1e2408abac3d3e;4;2;Taxi -15%
+de627e787ad02b36a0e8f5e50b18caf9;4;5;Easy Taxi Corp
+delivery99;3;10;99DELIVERY
+delivery-moto99;3;1;99DELIVERY MOTO
+DTaxi;8;2;Original - DTáxi
+Easy Taxi Corp;4;5;Easy Taxi Corp
+Easy Taxi Corp (-15%);4;5;Easy Taxi Corp (-15%)
+Economy;2;1;Economy
+electric99;3;1;99Electric-Pro
+Entrega;4;10;Entrega
+entrega-carreto;3;1;EntregaCarreto
+entrega-utility;3;1;EntregaUtility
+entrega-van;3;1;EntregaVan
+Essential;2;1;Essential
+Flash;2;10;Flash
+Flash Bikes;2;10;Flash Bikes
+Flash Moto;2;10;Flash Moto
+Flash Saver;2;1;Flash Saver
+Flash+;2;1;Flash+
+FlashEconomize;2;1;FlashEconomize
+FlashMoto;2;10;FlashMoto
+Green;2;1;Green
+JUMP Scooter;2;1;JUMP Scooter
+MB - MB;1;5;Táxi 1 min
+Moto;2;1;Moto
+Moto Flash;2;1;Moto Flash
+moto99;3;1;99MOTO
+Original;7;2;Original
+pop99;3;2;99POP
+pop99=w;44;1;99POP=w
+pop99-w;44;1;99POP-w
+poupa99;3;2;99POUPA
+Premier;2;1;Premier
+Prioridade;2;1;Prioridade
+Priority;2;1;Priority
+Priroidade;2;1;Priroidade
+PTaxi;2;1;PTaxi
+REGULAR TAXI;3;5;REGULAR TAXI
+regular-taxi;3;5;Táxi Comum
+regular-taxi=w;44;1;Táxi Comum=w
+regularTaxiSmartsis;13;5;Táxi Comum
+regularTaxiSmartsis - Aerocoop;13;5;Táxi Comum
+regularTaxiSmartsis - AEROSDUMONT;34;5;Táxi Comum
+regular-taxi-w;44;1;Táxi Comum-w
+RTG;9;2;Original - RTG
+Select;2;9;Select
+Taxi;2;5;Taxi
+Táxi;2;1;Táxi
+taxi - MOBGOV BATUR;39;5;Táxi Comum
+taxi - MOBGOV SHALOM - ORIGINAL;38;5;Táxi Comum
+taxi - Rádio RMC;35;5;Táxi Comum
+taxi - Rádio VIPService;36;5;Táxi Comum
+Táxi 1 min - MB;1;5;Táxi 1 min
+Taxi -15%;4;5;Taxi -15%
+Táxi 2 min - MB;1;5;Táxi 2 min
+Taxi -25%;4;5;Taxi -25%
+Táxi 5 min - MB;1;5;Táxi 5 min
+Taxi Corp;4;5;Taxi Corp
+Taxi Corp -15%;4;5;Taxi Corp -15%
+Taxi Promo;2;1;Taxi Promo
+Táxi Promo;2;1;Táxi Promo
+TAXID 10015;32;5;TAXI COMUM
+TAXID 10192;12;5;BR GERAL
+TAXID 10495;20;5;"TAXI COMUM "
+TAXID 10498;19;5;Taxi Comum
+TAXID 10519;19;5;TAXI COMUM
+TAXID 10660;32;5;TAXI EXECUTIVO
+TAXID 10664;22;5;Taxi Comum
+TAXID 10665;22;5;TAXI COMUM
+TAXID 10999;41;5;TAXI COMUM
+TAXID 11037;40;5;TAXI COMUM
+TAXID 11095;20;5;TAXI COMUM
+TAXID 11729;32;5;TAXI COMUM
+TAXID 11745;32;5;TAXI EXECUTIVO
+TAXID 178;25;5;Ligue-Táxi
+TAXID 2117;29;5;TAXI COMUM
+TAXID 2619;32;5;Cliente Empresa
+TAXID 3345;21;5;Tarifa Comum
+TAXID 4370;12;5;Táxi 2.0 Caragua
+TAXID 4371;12;5;Táxi Comum Caraguá
+TAXID 4707;12;5;Táxi 2.0 - Paulínia
+TAXID 4708;12;5;Táxi comum Paulínia
+TAXID 6549;12;5;Táxi 2.0 - SP
+TAXID 6550;12;5;Táxi 2.0 - RJ
+TAXID 6551;12;5;Táxi 2.0 - Fortaleza
+TAXID 7307;27;5;Taxi ABC
+TAXID 7546;12;5;TAXI COMUM
+TAXID 7681;12;5;SÃO PAULO
+TAXID 7683;12;5;RIO DE JANEIRO
+TAXID 7922;12;5;CURITIBA
+TAXID 7928;12;5;PORTO ALEGRE
+TAXID 8474;20;5;Táxi Comum
+TAXID 8475;18;5;Taxi comum
+TAXID 9475;21;5;Taxi comum
+TAXID 9476;19;5;Taxi Comum
+TAXID 9477;16;5;Taxi Comum
+TAXID 9478;17;5;Taxi Comum
+TAXID 9496;20;5;Taxi Comum
+TAXID 9497;19;5;Taxi Comum
+TAXID 9498;18;5;Taxi Comum
+TAXID 9499;17;5;Taxi Comum
+TAXID 9500;21;5;Taxi Comum
+TAXID 9501;16;5;Taxi Comum
+TAXID 9519;31;5;Taxi Comum
+TAXID 9520;31;5;Taxi Comum
+TAXID 9522;22;5;Taxi Comum
+TAXID 9523;23;5;Táxi Comum
+TAXID 9524;23;5;Taxi Comum
+TAXID 9525;30;5;Taxi Comum
+TAXID 9526;30;5;Taxi Comum
+TAXID 9527;24;5;Taxi Comum
+TAXID 9528;24;5;Taxi Comum
+TAXID 9529;25;5;Taxi comum
+TAXID 9530;25;5;Taxi Comum
+TAXID 9531;29;5;Taxi comum
+TAXID 9532;26;5;Taxi Comum
+TAXID 9533;27;5;Taxi Comum
+TAXID 9542;27;5;Taxi Comum
+TAXID 9568;28;5;Taxi Comum
+TAXID 9569;28;5;Taxi Comum
+TAXID 9577;23;5;Taxi Comum
+TAXID 9683;28;5;ORIG. REDUC
+TAXID 9705;33;5;Taxi Comum
+TaxiExtra;2;1;TaxiExtra
+TaxiPrecioCerrado;2;1;TaxiPrecioCerrado
+TáxiPromo;2;5;TáxiPromo
+Tele Taxi Caxias;10;2;Original - Tele Táxi Caxias
+top99;3;6;99TOP
+turbo-taxi;3;5;99TAXI
+turbo-taxi=w;44;1;99TAXI=w
+turbo-taxi-w;44;1;99TAXI-w
+Uber Flash;2;10;Uber Flash
+Uber Planet;2;1;Uber Planet
+Uber Priority;2;1;Uber Priority
+Uber Promo;2;2;Uber Promo
+UberAirport;2;1;UberAirport
+UberEspereeEconomize;2;1;UberEspereeEconomize
+UberFlash;2;10;UberFlash
+UberforUkraine;2;1;UberforUkraine
+UberGreen;2;1;UberGreen
+UberMedics;2;1;UberMedics
+UberPet;2;1;UberPet
+UberPlanet;2;1;UberPlanet
+UberPriority;2;1;UberPriority
+UberPromo;2;2;UberPromo
+UberSUV;2;1;UberSUV
+UberTuk;2;1;UberTuk
+UberX;2;2;UberX
+UberX Priority;2;1;UberX Priority
+UberX Promo;2;2;UberX Promo
+UberX Sem Pressa;2;2;UberX Sem Pressa
+UberXDiamond;2;1;UberXDiamond
+UberXL;2;1;UberXL
+UberXPriority;2;1;UberXPriority
+UberXPromo;2;2;UberXPromo
+UberXSaver;2;1;UberXSaver
+UberXSCL;2;1;UberXSCL
+UberXVIP;2;1;UberXVIP
+UberYa;2;1;UberYa
+UberYaPromo;2;1;UberYaPromo
+Van;2;1;Van
+VIP;2;2;VIP
+VoucherBlack;2;1;VoucherBlack
+VoucherBlackBag;2;1;VoucherBlackBag
+VoucherComfort;2;9;VoucherComfort
+VoucherComfortPlanet;2;1;VoucherComfortPlanet
+VoucherFlash;2;1;VoucherFlash
+VoucherPrioridade;2;1;VoucherPrioridade
+VoucherTáxiPromo;2;1;VoucherTáxiPromo
+VoucherUberX;2;1;VoucherUberX
+VoucherVIP;2;1;VoucherVIP
+WPP1;5;5;Comum
+WPP-1-1;5;5;Comum
+WPP2;5;1;Acessível
+WPP-2-1;5;1;Acessível
+WPP41;5;4;Premium
+WPP-41-6;5;4;Premium
+WPP42;5;2;Promo
+WPP-42-1;5;2;Promo
+WPP43;5;2;Mulher
+WPP-43-1;5;2;Mulher
+WPP-45-1;5;1;Green
+WPP5;5;4;Black
+WPP-5-5;5;4;Black
+WPP7;5;1;Economy
+WPP-7-6;5;1;Economy
