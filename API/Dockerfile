@@ -1,8 +1,10 @@
-
 FROM python:3.13-slim
-RUN pip install pipenv
+
 WORKDIR /app
+
 COPY . /app
-RUN pipenv install --deploy --ignore-pipfile
+
+RUN pip install --upgrade pip && pip install -r requirements.txt
+
 EXPOSE 5000
-CMD ["pipenv", "run", "python", "api.py"] 
+CMD ["gunicorn", "-b", "0.0.0.0:5000", "api:app"]
