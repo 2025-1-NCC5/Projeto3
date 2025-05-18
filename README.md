@@ -6,7 +6,7 @@
 
 # Estimador de Preços de Corridas
 
-## Nome do Grupo
+## Nome do Grupo - insightmob
 
 ## Integrantes: 
 - [Ruan Paulo](https://www.linkedin.com)
